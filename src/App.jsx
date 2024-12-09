@@ -69,17 +69,19 @@ const App = () => {
   const [assignments, setAssignments] = useState([]);
 
   const handleGenerate = () => {
-	let count = 0;
-	const intervalId = setInterval(() => {
-		const newAssignments = generateGiftExchange();
-		setAssignments(newAssignments);
-		count++;
-		if (count > 100) {
-			clearInterval(intervalId);
-		}
-	}, 100);
+	const newAssignments = generateGiftExchange();
+	setAssignments(newAssignments);
+	// let count = 0;
+	// const intervalId = setInterval(() => {
+	// 	const newAssignments = generateGiftExchange();
+	// 	setAssignments(newAssignments);
+	// 	count++;
+	// 	if (count > 50) {
+	// 		clearInterval(intervalId);
+	// 	}
+	// }, 100);
 
-	return () => clearInterval(intervalId);
+	// return () => clearInterval(intervalId);
   };
 
   return (
