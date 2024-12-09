@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pullumnewyear_2024/static/css/main.c6c8ff9d.css",
-    "main.js": "/pullumnewyear_2024/static/js/main.7e11830c.js",
+    "main.js": "/pullumnewyear_2024/static/js/main.bbbd7ebc.js",
     "static/media/82653922_9808509.jpg": "/pullumnewyear_2024/static/media/82653922_9808509.96bfc3777f323fc06fd6.jpg",
     "index.html": "/pullumnewyear_2024/index.html",
     "static/media/arrow.svg": "/pullumnewyear_2024/static/media/arrow.a0bbdc8149a70fe160b142313219d193.svg",
     "main.c6c8ff9d.css.map": "/pullumnewyear_2024/static/css/main.c6c8ff9d.css.map",
-    "main.7e11830c.js.map": "/pullumnewyear_2024/static/js/main.7e11830c.js.map"
+    "main.bbbd7ebc.js.map": "/pullumnewyear_2024/static/js/main.bbbd7ebc.js.map"
   },
   "entrypoints": [
     "static/css/main.c6c8ff9d.css",
-    "static/js/main.7e11830c.js"
+    "static/js/main.bbbd7ebc.js"
   ]
 }
