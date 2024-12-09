@@ -9,7 +9,7 @@ const App = () => {
   const pairs = [
     ['Бодя', 'Лена'],
     ['Саня', 'Яна'],
-    ['Антон', 'Вакин']
+    ['Лук', 'Вакин']
   ];
 
   const generateGiftExchange = () => {
